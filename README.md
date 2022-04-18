@@ -10,7 +10,7 @@
 
 -  **Ba trạng thái trong Git:**
 <p align="center">
-<a href="#"><img width="80%" height="auto" src=""/></a>
+<a href="#"><img width="80%" height="auto" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Si7ksd-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AdiRLm1S5hkVoh5qeArND0Q.png"/></a>
 </p>
 1. Working directory: Là bản sao một phiên bản của dự án.
 
